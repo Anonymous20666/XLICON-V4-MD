@@ -169,8 +169,8 @@ async function GroupParticipantsUpdate(XliconBotInc, { id, participants, action 
  ◎      ${xmembers}th 
  │ ➪  *Jᴏɪɴᴇᴅ :*
  ◎      ${xtime} ${xdate}
- │ ➪  *Support by Subscribe My Channel :*
- ◎      youtube.com/@s4salmanyt
+ │ ➪  *Support by following my WhatsApp gc :*
+ ◎      https://chat.whatsapp.com/B4xAPxRLWKO9vatSqXSz71
  └─────────────|`
 let msgs = generateWAMessageFromContent(id, {
   viewOnceMessage: {
@@ -227,8 +227,8 @@ await XliconBotInc.relayMessage(id, msgs.message, {})
  ◎      ${xeonmembers}th
  │ ➪  *Tɪᴍᴇ :*
  ◎      ${xlicontime} ${xlicondate}
- │ ➪  *Support by Subscribe My Channel :*
- ◎      youtube.com/@s4salmanyt
+ │ ➪  *Support by following My Channel :*
+ ◎      https://whatsapp.com/channel/0029Vafy50bB4hdZV9YAAn2r
  └─────────────||
 `
 let msgs = generateWAMessageFromContent(id, {
